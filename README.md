@@ -3,7 +3,7 @@
 ![Sign2Text Banner](https://img.shields.io/badge/Sign2Text-Sign%20Language%20to%20Text-blueviolet?style=for-the-badge&logo=python)  
 [![Python Version](https://img.shields.io/badge/Python-3.8%2B-brightgreen.svg?style=flat&logo=python)](https://www.python.org/)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat)](https://opensource.org/licenses/MIT)  
-[![Stars](https://img.shields.io/github/stars/yourusername/sign2text?style=social)](https://github.com/yourusername/sign2text)  
+[![Stars](https://img.shields.io/github/stars/yourusername/sign2text?style=social)](https://github.com/damthuyhien/Sign2Text-Project)  
 
 A dynamic Python project that translates sign language gestures into text using machine learning! 🌟 Perfect for accessibility tools, real-time translation, and AI enthusiasts. Built with PyTorch for model training and a simple GUI for interaction.  
 
