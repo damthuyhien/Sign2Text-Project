@@ -11,7 +11,7 @@ A dynamic Python project that translates sign language gestures into text using 
 
 ```bash
 # Clone the repo  
-git clone https://github.com/damthuyhien/sign2text.git  
+git clone https://github.com/@damthuyhien/sign2text.git  
 cd sign2text  
 
 # Set up virtual environment  
@@ -24,8 +24,8 @@ pip install -r requirements.txt
 # Train the model  
 python train.py  
 
-# Run the GUI  
-python gui.py  
+# Run the main  
+python main.py  
 ```  
 
 ## 📂 Project Structure  
