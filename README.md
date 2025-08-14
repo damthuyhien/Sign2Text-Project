@@ -11,7 +11,7 @@ A dynamic Python project that translates sign language gestures into text using 
 
 ```bash
 # Clone the repo  
-git clone https://github.com/yourusername/sign2text.git  
+git clone https://github.com/damthuyhien/sign2text.git  
 cd sign2text  
 
 # Set up virtual environment  
@@ -42,46 +42,4 @@ SIGN2TEXT/
 ├── main.py               # ⚙️ Main entry point for running the application  
 ├── model.py              # 🤖 Model definition (e.g., PyTorch neural network architecture)  
 ├── saved_model.pth       # 💾 Pre-trained model weights  
-├── train.py              # 🏋️‍♂️ Training script for the sign language model  
-└── utils.py              # 🛠️ Utility functions (e.g., data loaders, preprocessing)  
-```  
-
-## 🛠️ Installation  
-
-1. **Prerequisites** 🔧:  
-   - Python 3.8+  
-   - PyTorch (install via `pip install torch`)  
-   - Other libs: numpy, opencv-python (for GUI/video processing)  
-
-2. **Setup** 📥:  
-   ```bash
-   pip install torch torchvision torchaudio numpy opencv-python  
-   ```  
-
-## ▶️ Usage  
-
-- **Training Mode** 🏃‍♂️: Run `python train.py` to train on your `data/` folder.  
-- **Inference Mode** 🔍: Load the model in `gui.py` for live sign-to-text translation.  
-- **Example Command** 💻:  
-  ```python
-  # In main.py or gui.py  
-  import model  
-  loaded_model = model.load('saved_model.pth')  
-  text = loaded_model.predict(sign_gesture)  # Pseudo-code  
-  print(f"Translated: {text} 🎉")  
-  ```  
-
-## 🤝 Contributing  
-
-Fork the repo, make your changes, and submit a PR! 🌈 We love contributions for better accuracy or new sign languages.  
-
-## 📜 License  
-
-MIT License – Feel free to use and modify! 📄  
-
-## 🎉 Acknowledgments  
-
-- Inspired by accessibility in AI 🤝  
-- Icons from [Shields.io](https://shields.io/) and emojis for that lively vibe! ✨  
-
-Replace `yourusername` with your GitHub username. Add a real banner image if you have one! 🚀
+├── train.py              # 🏋️‍♂️ Training scdamthuyhien` with your GitHub username. Add a real banner image if you have one! 🚀
